@@ -1,4 +1,5 @@
 // Groups outfall assessments by unique structure number
+// Reference: https://github.com/Esri/arcade-expressions/blob/master/dashboard_data/GroupByMultiStats(List).md
 
 var portal = Portal('https://www.arcgis.com/');
 var fs = FeatureSetByPortalItem(
